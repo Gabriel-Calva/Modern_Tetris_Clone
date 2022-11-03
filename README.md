@@ -8,7 +8,7 @@ Here are all the changes posted as patch notes:
    This lead to some frustrating situations where a player could sometimes get multiple of the same tetriminos in a row.
    - The new randomization utilizes a "bag" system. This means that every seven tetriminos will be unique, and the most amount of repeating tetriminos a player can get is two
 ### 2. Extended the number of queued tetriminos from 1 to 4
-   - Previewing only one tetrimino can lead to very short-sighted and reactice gameplay. Changing the number of previewed tetriminos from one to four should help players better plan out where they want to exactly put their tetriminos
+   - Previewing only one tetrimino can lead to very short-sighted and reactive gameplay. Changing the number of previewed tetriminos from one to four should help players better plan out where they want to exactly put their tetriminos
    - Pairing this change with the new randomization not only modernizes the game, but also leads to a better gameplay flow
 ### 3. Added in a Shadow Tetrimino
    - The previous version didn't have a shadow tetrimino. Adding this in helps players see exactly where their tetrimino will fall
